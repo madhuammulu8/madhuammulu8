@@ -1,7 +1,9 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=madhuammulu8&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-- 🌱 I’m Madhu currently looking for a Job Opportunity in Computer Science, I worked as Researcher at NASA and also have 4+ YOE in building production-level software, I did my masters in Computer Science in the University Of California, Riverside
+- 🌱 I’m Madhu, and I am currently looking for a Job Opportunity in Computer Science, I worked as Researcher at NASA and also have 4+ YOE in building production-level software
+- 🎓 I did my master's in Computer Science at the University Of California, Riverside
+- ☁️ I'm Microsoft Azure Certified (Az-900, AI-900, Az-204,Dp-900) and Salesforce Platform Developer I Certified
   
 #### 📫 How to reach me:
  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/madhuammulu8/)  &nbsp; 
