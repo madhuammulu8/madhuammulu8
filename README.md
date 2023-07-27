@@ -12,6 +12,6 @@
 
 ### My Writings
 - 📫 Read my blogs: [Madhu Medium Blog](https://medium.com/@madhuammulu8).
-- 🎯 Portfolio site: [Portfolio](madhusudhantungamitta.com).
+- 🎯 Portfolio site: [Portfolio](https://www.madhusudhantungamitta.com/).
 - 🔔 Leetcode Solutions Explained:- [Leetcode Solutions](https://leetcode.com/madhuammulu8/).
 
