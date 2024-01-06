@@ -15,6 +15,6 @@ Link : https://www.dropbox.com/scl/fi/asoelryh7e2pe395e8plu/Madhusudhan_Tungamit
 
 ### My Writings
 - 📫 Read my blogs: [Madhu Medium Blog](https://medium.com/@madhuammulu8).
-- 🎯 Portfolio site: [Portfolio](https://www.madhusudhantungamitta.com/).
+- 🎯 Portfolio site: [Portfolio](https://sites.google.com/view/www-madhusudhantungamitta-com/projects?authuser=0).
 - 🔔 Leetcode Solutions Explained:- [Leetcode Solutions](https://leetcode.com/madhuammulu8/).
 
